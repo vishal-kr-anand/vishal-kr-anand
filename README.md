@@ -1,198 +1,195 @@
-<div align="center">
-
-👋 Hey, I'm Vishal Kr. Anand
-
-🚀 Full Stack Developer | MERN Stack Developer
-
-<p>
-  <a href="https://github.com/vishal-kr-anand">
-    <img src="https://img.shields.io/badge/GitHub-vishal--kr--anand-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:vishal.anand6219@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+modern+web+applications+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Node.js;REST+APIs+%7C+Firebase+%7C+Databases;Clean+Code+%7C+Scalable+Solutions" alt="Typing animation"/>
-
-</div>
-
-💫 About Me
-
-I'm a results-driven Full Stack Developer with 5+ years of experience building modern web applications and business solutions.
-
-I enjoy turning business requirements into reliable, scalable and user-friendly products, with a strong focus on code quality, performance and maintainability.
-
-💻 Full Stack / MERN Stack Developer
-
-⚛️ Building responsive interfaces with React.js & Next.js
-
-🧩 Developing backend services with Node.js & Express.js
-
-🔐 Working with REST APIs, JWT authentication & protected routes
-
-🗄️ Experienced with MongoDB, MySQL, PostgreSQL & Firebase
-
-🏛️ Building and maintaining government portals and dashboards
-
-📍 Based in Dehradun, Uttarakhand
-
-🚚 Open to relocation
-
-🧑‍💻 What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-🎨 Frontend Development
-
-Responsive web interfaces
-
-React.js applications
-
-Next.js
-
-Redux Toolkit
-
-Material UI
-
-Bootstrap
-
-Reusable components
-
-Cross-platform UI
-
-</td>
-<td width="50%">
-
-⚙️ Backend Development
-
-Node.js & Express.js
-
-RESTful APIs
-
-JWT Authentication
-
-Middleware
-
-MVC Architecture
-
-Protected routes
-
-Database-driven applications
-
-API integration
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-🗄️ Database & Cloud
-
-MongoDB
-
-PostgreSQL
-
-MySQL
-
-Firebase
-
-Real-time database operations
-
-Authentication
-
-Frontend deployment
-
-</td>
-<td width="50%">
-
-🚀 Engineering Focus
-
-Clean & maintainable code
-
-Scalable architecture
-
-Performance optimization
-
-Business-focused solutions
-
-Secure authentication
-
-Deployment & technical support
-
-</td>
-</tr>
-</table>
-
-🛠️ Tech Stack
+<!-- ===================== HERO ===================== -->
 
 <div align="center">
 
-Frontend
+<a href="https://github.com/vishal-kr-anand">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,24,30&text=Vishal%20Kr.%20Anand&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Vishal Kr. Anand"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,jquery,redux,materialui" alt="Frontend skills"/>
+<br/>
 
-Backend & Programming
+<a href="https://github.com/vishal-kr-anand">
+  <img src="https://img.shields.io/badge/💻%20GitHub-vishal--kr--anand-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:vishal.anand6219@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="tel:+918273356614">
+  <img src="https://img.shields.io/badge/📱%20Phone-%2B91%208273356614-059669?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" alt="Backend skills"/>
+<br/><br/>
 
-Databases & Services
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%E2%9A%9B%EF%B8%8F;React.js+%7C+Node.js+%7C+Express.js;REST+APIs+%7C+Firebase+%7C+MongoDB+%7C+PostgreSQL;Building+clean%2C+secure+%26+scalable+solutions" alt="Typing animation"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" alt="Database skills"/>
+<br/>
 
-Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,wordpress" alt="Tools"/>
+<img src="https://komarev.com/ghpvc/?username=vishal-kr-anand&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
+
+<!-- ===================== ABOUT ===================== -->
+
+🧑‍💻 About Me
+
+Results-driven Full Stack Developer with 5+ years of experience building modern web applications and business solutions.
+
+I specialize in transforming business requirements into reliable, scalable and user-friendly applications, with a strong focus on code quality, performance, security and maintainability.
+
+<div align="center">
+
+🚀 Experience
+
+⚛️ Frontend
+
+⚙️ Backend
+
+🗄️ Data
+
+5+ Years
+
+React / Next
+
+Node / Express
+
+MongoDB / PostgreSQL
+
+</div>
+
+✨ What I bring
+
+🏗️ Full-stack application development
+
+🎨 Responsive and reusable UI systems
+
+🔌 Secure REST API development
+
+🔐 JWT authentication, middleware & protected routes
+
+📊 Database-driven applications
+
+🏛️ Government portals, dashboards & role-based systems
+
+🚀 Performance, scalability and maintainable architecture
+
+<!-- ===================== STACK ===================== -->
+
+⚡ Technology Stack
+
+<div align="center">
+
+🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,jquery,redux,materialui&perline=10" alt="Frontend"/>
+
+🧠 Backend & Languages
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python&perline=10" alt="Backend"/>
+
+🗃️ Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=10" alt="Databases"/>
+
+🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,wordpress&perline=10" alt="Tools"/>
+
+</div>
+
+<!-- ===================== EXPERIENCE ===================== -->
 
 💼 Professional Experience
 
-🏛️ Web Developer Executive — Full Stack Developer
+<table>
+<tr>
+<td width="28%" valign="top">
 
-Akiko Sherman Infotech Pvt. Ltd. at NIC · Dehradun, Uttarakhand
-January 2025 – Present
+🏛️ Jan 2025 — Present
 
-Building and maintaining government portals using React.js, Node.js, Express.js and Firebase
+Software Developer
 
-Implementing role-based authentication and dashboards
+Akiko Sherman Infotech Pvt. Ltd. at NIC
+Dehradun, Uttarakhand
 
-Working with MongoDB/PostgreSQL and modular APIs
+</td>
+<td width="72%" valign="top">
 
-Assisting government teams with deployment and training
+Building and maintaining government portals
 
-💻 Software Engineer
+React.js, Node.js, Express.js & Firebase
 
-Crew Captivators Solutions Pvt. Ltd. · Naharlagun, Arunachal Pradesh
-February 2024 – December 2024
+Role-based authentication and dashboards
 
-Developed full-stack web applications using React.js, Node.js and Express.js
+MongoDB / PostgreSQL and modular APIs
 
-Worked with modular application architecture
+Supporting deployment and technical training
 
-Integrated Firebase for real-time database operations, authentication and deployment
+</td>
+</tr>
 
-Built and consumed secure REST APIs with middleware and protected routes
+<tr>
+<td width="28%" valign="top">
 
-⚙️ Software Engineer
+🚀 Feb 2024 — Dec 2024
 
-BBS Tech Solution · Bengaluru, Karnataka
-July 2023 – February 2024
+Web Developer Executive
+Full Stack Developer
 
-Developed websites, CRMs and APIs using React, Node and PostgreSQL
+Crew Captivators Solutions Pvt. Ltd.
+Naharlagun, Arunachal Pradesh
 
-Built custom websites and integrated APIs
+</td>
+<td width="72%" valign="top">
 
-Focused on scalability and timely project delivery
+Built full-stack applications with React.js, Node.js & Express.js
 
-🎨 Web Designer
+Used modular architecture for maintainable applications
 
-Codegems Solutions Pvt. Ltd. · Mohali, Punjab
-July 2022 – June 2023
+Integrated Firebase for real-time database, authentication & deployment
 
-Developed responsive, client-focused websites
+Developed secure REST APIs with middleware and protected routes
+
+</td>
+</tr>
+
+<tr>
+<td width="28%" valign="top">
+
+⚙️ Jul 2023 — Feb 2024
+
+Software Engineer
+
+BBS Tech Solution
+Bengaluru, Karnataka
+
+</td>
+<td width="72%" valign="top">
+
+Developed websites, CRMs and APIs
+
+Worked with React, Node and PostgreSQL
+
+Integrated APIs and built custom solutions
+
+Focused on scalability and timely delivery
+
+</td>
+</tr>
+
+<tr>
+<td width="28%" valign="top">
+
+🎨 Jul 2022 — Jun 2023
+
+Web Designer
+
+Codegems Solutions Pvt. Ltd.
+Mohali, Punjab
+
+</td>
+<td width="72%" valign="top">
+
+Created responsive client-focused websites
 
 Worked on scalable layouts and clean UI/UX
 
@@ -200,121 +197,202 @@ Built reusable components and dynamic content structures
 
 Focused on cross-platform compatibility
 
-🧑‍💻 Web Designer Intern
+</td>
+</tr>
 
-TheFuenix · Mohali, Punjab
-January 2022 – June 2022
+<tr>
+<td width="28%" valign="top">
 
-Designed responsive frontends using HTML5, CSS3, Bootstrap 5 and JavaScript
+💻 Jan 2022 — Jun 2022
+
+Web Designer Intern
+
+TheFuenix
+Mohali, Punjab
+
+</td>
+<td width="72%" valign="top">
+
+Designed responsive frontends using HTML5, CSS3, Bootstrap 5 & JavaScript
 
 Collaborated on user-friendly web interfaces
 
-🎓 Education
+</td>
+</tr>
+</table>
 
-Bachelor of Engineering — Computer Science & Engineering
-Truba Group of Institutes, Bhopal · 2016 – 2020
+<!-- ===================== SPECIALIZATION ===================== -->
 
-Senior Secondary Education
-Sharda Girdhari Keshri College · 2016
-
-Secondary Education
-M S M High School, Chaparhat · 2014
-
-📜 Certifications
-
-🏆 Software Engineer
-
-⚛️ Frontend Developer — React.js
-
-🟢 Backend Developer — Node.js
-
-🔌 REST API Development
-
-🎨 Responsive Web Design
-
-🧠 JavaScript Algorithms and Data Structures
-
-🐙 Career Essentials in GitHub Professional Certificate
-
-📊 GitHub Overview
+🧩 My Development Toolkit
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishal-kr-anand&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="Vishal's GitHub stats"/>
+🎨 Frontend
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kr-anand&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
+⚙️ Backend
+
+🔐 Security
+
+🗄️ Database
+
+React.js
+
+Node.js
+
+JWT
+
+MongoDB
+
+Next.js
+
+Express.js
+
+Middleware
+
+PostgreSQL
+
+TypeScript
+
+REST APIs
+
+Protected Routes
+
+MySQL
+
+Redux Toolkit
+
+PHP
+
+Role-based Auth
+
+Firebase
+
+Material UI
+
+Python
+
+MVC Architecture
+
+—
 
 </div>
+
+<!-- ===================== EDUCATION ===================== -->
+
+🎓 Education
+
+🎓 Bachelor of Engineering — Computer Science & Engineering
+
+Truba Group of Institutes, Bhopal
+2016 — 2020
+
+📚 Senior Secondary Education
+
+Sharda Girdhari Keshri College
+2016
+
+🏫 Secondary Education
+
+M S M High School, Chaparhat
+2014
+
+<!-- ===================== CERTIFICATIONS ===================== -->
+
+🏆 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineer-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Frontend%20Developer%20%7C%20React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Backend%20Developer%20%7C%20Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/REST%20API%20Development-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript%20Algorithms%20%26%20Data%20Structures-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/Career%20Essentials%20in%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+<!-- ===================== JOURNEY ===================== -->
+
+🗺️ My Developer Journey
+
+2022  ●── Web Design & Frontend
+      │   HTML • CSS • Bootstrap • JavaScript
+      │
+2023  ●── Software Engineering
+      │   React • Node.js • PostgreSQL
+      │
+2024  ●── Full Stack Development
+      │   Express • Firebase • REST APIs
+      │
+2025  ●── Government Portals & Full Stack
+      │   React • Node • Firebase • MongoDB/PostgreSQL
+      │
+ NOW  ●── Building • Learning • Improving 🚀
+
+<!-- ===================== GITHUB ===================== -->
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishal-kr-anand&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&custom_title=Vishal's%20GitHub%20Stats" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kr-anand&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&custom_title=Most%20Used%20Languages" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=vishal-kr-anand&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=FFFFFF" alt="GitHub streak"/>
+
+</div>
+
+<!-- ===================== FOCUS ===================== -->
+
+🎯 Current Focus
+
+<div align="center">
+
+╔══════════════════════════════════════════════════════════╗
+║  🚀 Building scalable full-stack applications            ║
+║  ⚛️  React.js + Next.js + TypeScript                     ║
+║  🟢 Node.js + Express.js + REST APIs                     ║
+║  🔐 Secure authentication & role-based systems           ║
+║  🗄️  MongoDB + PostgreSQL + Firebase                    ║
+║  🧹 Clean code • Performance • Maintainability           ║
+╚══════════════════════════════════════════════════════════╝
+
+</div>
+
+<!-- ===================== CONTACT ===================== -->
+
+🤝 Let's Build Something Great
+
+<div align="center">
+
+Open to relocation • Open to opportunities • Always learning
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vishal-kr-anand&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
-📈 My Developer Journey
-
-2022  ── Web Design & Frontend Development
-        │
-        ├── HTML • CSS • Bootstrap • JavaScript
-        │
-2023  ── Software Engineering
-        │
-        ├── React • Node.js • PostgreSQL
-        │
-2024  ── Full Stack Development
-        │
-        ├── Express • Firebase • REST APIs
-        │
-2025+ ── Government Portals & Full Stack Engineering
-        │
-        └── React • Node • Firebase • MongoDB/PostgreSQL
-
-🎯 Currently Focused On
-
-role: Full Stack Developer
-specialization: MERN Stack
-frontend:
-  - React.js
-  - Next.js
-  - TypeScript
-backend:
-  - Node.js
-  - Express.js
-  - REST APIs
-databases:
-  - MongoDB
-  - PostgreSQL
-  - MySQL
-  - Firebase
-focus:
-  - Scalable Applications
-  - Secure Authentication
-  - Clean Architecture
-  - Performance
-
-🤝 Let's Connect
-
-<div align="center">
-
 <a href="mailto:vishal.anand6219@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vishal.anand6219%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/📧%20vishal.anand6219%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/vishal-kr-anand">
-  <img src="https://img.shields.io/badge/GitHub-vishal--kr--anand-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/💻%20Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
 <div align="center">
 
-💙 Thanks for visiting my profile!
+💜 Thanks for visiting my profile!
 
-Building • Learning • Improving • Shipping 🚀
+Code. Create. Improve. Repeat. 🚀
 
-<img src="https://komarev.com/ghpvc/?username=vishal-kr-anand&style=for-the-badge&color=7C3AED" alt="Profile views"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=6,11,20,24,30&section=footer" width="100%" alt="Footer"/>
 
 </div>
