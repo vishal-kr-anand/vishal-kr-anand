@@ -36,25 +36,57 @@ Results-driven Full Stack Developer with 5+ years of experience building modern 
 
 I specialize in transforming business requirements into reliable, scalable and user-friendly applications, with a strong focus on code quality, performance, security and maintainability.
 
-<div align="center">
+<!-- ===================== PROFILE HIGHLIGHTS ===================== -->
 
-🚀 Experience
+<h2 align="center">✨ Profile Highlights</h2>
 
-⚛️ Frontend
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-⚙️ Backend
+### 🚀
+### Experience
 
-🗄️ Data
+<strong>5+ Years</strong>
 
-5+ Years
+Full Stack Development
 
-React / Next
+</td>
 
-Node / Express
+<td align="center" width="25%">
 
-MongoDB / PostgreSQL
+### ⚛️
+### Frontend
 
-</div>
+<strong>React / Next</strong>
+
+TypeScript · Redux · MUI
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+### Backend
+
+<strong>Node / Express</strong>
+
+REST APIs · JWT · MVC
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+### Data
+
+<strong>MongoDB / PostgreSQL</strong>
+
+MySQL · Firebase
+
+</td>
+</tr>
+</table>
 
 ✨ What I bring
 
