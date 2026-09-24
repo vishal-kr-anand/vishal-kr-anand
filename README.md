@@ -257,55 +257,229 @@ Collaborated on user-friendly web interfaces
 
 🧩 My Development Toolkit
 
+<!-- ===================== DEVELOPMENT TOOLKIT ===================== -->
+
+<h2 align="center">🛠️ My Development Toolkit</h2>
+
+<!-- ===================== MY DEVELOPMENT TOOLKIT ===================== -->
+
+<h2 align="center">🛠️ My Development Toolkit</h2>
+
+<!-- ===================== FRONTEND ===================== -->
+
+<h3 align="center">🎨 Frontend</h3>
+
 <div align="center">
 
-🎨 Frontend
+<table>
+<tr>
 
-⚙️ Backend
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="50"><br>
+<b>HTML5</b>
+</td>
 
-🔐 Security
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="50"><br>
+<b>CSS3</b>
+</td>
 
-🗄️ Database
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"><br>
+<b>Bootstrap</b>
+</td>
 
-React.js
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="50"><br>
+<b>JavaScript</b>
+</td>
 
-Node.js
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="50"><br>
+<b>TypeScript</b>
+</td>
 
-JWT
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50"><br>
+<b>React.js</b>
+</td>
 
-MongoDB
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"><br>
+<b>Next.js</b>
+</td>
 
-Next.js
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jquery" width="50"><br>
+<b>jQuery</b>
+</td>
 
-Express.js
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redux" width="50"><br>
+<b>Redux</b>
+</td>
 
-Middleware
+<td align="center">
+<img src="https://skillicons.dev/icons?i=materialui" width="50"><br>
+<b>Material UI</b>
+</td>
 
-PostgreSQL
+</tr>
+</table>
 
-TypeScript
+</div>
 
-REST APIs
+<br>
 
-Protected Routes
+<!-- ===================== BACKEND ===================== -->
 
-MySQL
+<h3 align="center">⚙️ Backend & Languages</h3>
 
-Redux Toolkit
+<div align="center">
 
-PHP
+<table>
+<tr>
 
-Role-based Auth
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"><br>
+<b>Node.js</b>
+</td>
 
-Firebase
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="50"><br>
+<b>Express.js</b>
+</td>
 
-Material UI
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="50"><br>
+<b>PHP</b>
+</td>
 
-Python
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"><br>
+<b>Python</b>
+</td>
 
-MVC Architecture
+</tr>
+</table>
 
-—
+</div>
+
+<br>
+
+<!-- ===================== DATABASE ===================== -->
+
+<h3 align="center">🗄️ Database & Cloud</h3>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"><br>
+<b>MongoDB</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"><br>
+<b>MySQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"><br>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" width="50"><br>
+<b>Firebase</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ===================== SECURITY ===================== -->
+
+<h3 align="center">🔐 Security & Architecture</h3>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"><br>
+<b>JWT</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/REST-7C3AED?style=for-the-badge&logoColor=white" height="40"><br>
+<b>REST APIs</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Middleware-2563EB?style=for-the-badge&logoColor=white" height="40"><br>
+<b>Middleware</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Auth-059669?style=for-the-badge&logoColor=white" height="40"><br>
+<b>Role-Based Auth</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/MVC-F97316?style=for-the-badge&logoColor=white" height="40"><br>
+<b>MVC</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ===================== TOOLS ===================== -->
+
+<h3 align="center">🧰 Tools & Platforms</h3>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="50"><br>
+<b>Postman</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"><br>
+<b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=wordpress" width="50"><br>
+<b>WordPress</b>
+</td>
+
+</tr>
+</table>
 
 </div>
 
